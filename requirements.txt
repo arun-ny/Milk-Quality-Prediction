@@ -1,5 +1,4 @@
 altair==4.2.0
-Arrays==0.0.5
 asttokens==2.0.8
 attrs==22.1.0
 backcall==0.2.0
@@ -35,7 +34,6 @@ numpy==1.23.2
 packaging==21.3
 pandas==1.4.3
 parso==0.8.3
-pickle-mixin==1.0.2
 pickleshare==0.7.5
 Pillow==9.2.0
 prompt-toolkit==3.0.30
@@ -43,6 +41,7 @@ protobuf==3.20.1
 psutil==5.9.1
 pure-eval==0.2.2
 pyarrow==9.0.0
+pybase64==1.2.2
 pydeck==0.7.1
 Pygments==2.13.0
 Pympler==1.0.1
@@ -62,6 +61,7 @@ sklearn==0.0
 smmap==5.0.0
 stack-data==0.4.0
 streamlit==1.12.0
+streamlit-option-menu==0.3.2
 threadpoolctl==3.1.0
 toml==0.10.2
 toolz==0.12.0
